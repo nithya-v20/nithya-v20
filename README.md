@@ -1,1 +1,1 @@
-# nithya-v20-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nithyavuddagiritheme=dark&ext=heatmap)
